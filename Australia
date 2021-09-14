@@ -1,0 +1,151 @@
+ [{
+ 		"playerBest": "Avg: 00",
+ 		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170630/aaron-finch.jpg",
+ 		"playerName": "Aaron Finch",
+ 		"playerRatting": "BATSMEN"
+ 	},
+ 	{
+ 		"playerBest": "Avg: 00",
+ 		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170624/steven-smith.jpg",
+ 		"playerName": "Steven Smith",
+ 		"playerRatting": "BATSMEN"
+ 	},
+ 	{
+ 		"playerBest": "Avg: 00",
+ 		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170635/david-warner.jpg",
+ 		"playerName": "David Warner",
+ 		"playerRatting": "BATSMEN"
+ 	},
+ 	{
+ 		"playerBest": "Avg: 00",
+ 		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c180293/joe-burns.jpg",
+ 		"playerName": "Joe Burns",
+ 		"playerRatting": "BATSMEN"
+ 	},
+ 	{
+ 		"playerBest": "Avg: 00",
+ 		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c165716/will-pucovski.jpg",
+ 		"playerName": "Will Pucovski",
+ 		"playerRatting": "BATSMEN"
+ 	},
+ 	{
+ 		"playerBest": "Avg: 00",
+ 		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170641/glenn-maxwell.jpg",
+ 		"playerName": "Glenn Maxwell",
+ 		"playerRatting": "ALL ROUNDER"
+ 	},
+ 	{
+ 		"playerBest": "Avg: 00",
+ 		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c176605/marcus-stoinis.jpg",
+ 		"playerName": "Marcus Stoinis",
+ 		"playerRatting": "ALL ROUNDER"
+ 	},
+ 	{
+ 		"playerBest": "Avg: 00",
+ 		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c152405/moises-henriques.jpg",
+ 		"playerName": "Moises Henriques",
+ 		"playerRatting": "ALL ROUNDER"
+ 	},
+ 	{
+ 		"playerBest": "Avg: 00",
+ 		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c184115/marnus-labuschagne.jpg",
+ 		"playerName": "Marnus Labuschagne",
+ 		"playerRatting": "ALL ROUNDER"
+ 	},
+ 	{
+ 		"playerBest": "Avg: 00",
+ 		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c147703/travis-head.jpg",
+ 		"playerName": "Travis Head",
+ 		"playerRatting": "ALL ROUNDER"
+ 	},
+ 	{
+ 		"playerBest": "Avg: 00",
+ 		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155994/michael-neser.jpg",
+ 		"playerName": "Michael Neser",
+ 		"playerRatting": "ALL ROUNDER"
+ 	},
+ 	{
+ 		"playerBest": "Avg: 00",
+ 		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155995/ashton-agar.jpg",
+ 		"playerName": "Ashton Agar",
+ 		"playerRatting": "ALL ROUNDER"
+ 	},
+ 	{
+ 		"playerBest": "Avg: 00",
+ 		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c198706/cameron-green.jpg",
+ 		"playerName": "Cameron Green",
+ 		"playerRatting": "ALL ROUNDER"
+ 	},
+ 	{
+ 		"playerBest": "Avg: 00",
+ 		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c180315/daniel-sams.jpg",
+ 		"playerName": "Daniel Sams",
+ 		"playerRatting": "ALL ROUNDER"
+ 	},
+ 	{
+ 		"playerBest": "Avg: 00",
+ 		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170667/alex-carey.jpg",
+ 		"playerName": "Alex Carey",
+ 		"playerRatting": "WICKET KEEPER"
+ 	},
+ 	{
+ 		"playerBest": "Avg: 00",
+ 		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c156205/matthew-wade.jpg",
+ 		"playerName": "Matthew Wade",
+ 		"playerRatting": "WICKET KEEPER"
+ 	},
+ 	{
+ 		"playerBest": "Avg: 00",
+ 		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155979/tim-paine.jpg",
+ 		"playerName": "Tim Paine",
+ 		"playerRatting": "WICKET KEEPER"
+ 	},
+ 	{
+ 		"playerBest": "Avg: 00",
+ 		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170651/pat-cummins.jpg",
+ 		"playerName": "Pat Cummins",
+ 		"playerRatting": "BOWLER"
+ 	},
+ 	{
+ 		"playerBest": "Avg: 00",
+ 		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170650/nathan-lyon.jpg",
+ 		"playerName": "Nathan Lyon",
+ 		"playerRatting": "BOWLER"
+ 	},
+ 	{
+ 		"playerBest": "Avg: 00",
+ 		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170643/mitchell-starc.jpg",
+ 		"playerName": "Mitchell Starc",
+ 		"playerRatting": "BOWLER"
+ 	},
+ 	{
+ 		"playerBest": "Avg: 00",
+ 		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170654/adam-zampa.jpg",
+ 		"playerName": "Adam Zampa",
+ 		"playerRatting": "BOWLER"
+ 	},
+ 	{
+ 		"playerBest": "Avg: 00",
+ 		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c191413/sean-abbott.jpg",
+ 		"playerName": "Sean Abbott",
+ 		"playerRatting": "BOWLER"
+ 	},
+ 	{
+ 		"playerBest": "Avg: 00",
+ 		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c151583/josh-hazlewood.jpg",
+ 		"playerName": "Josh Hazlewood",
+ 		"playerRatting": "BOWLER"
+ 	},
+ 	{
+ 		"playerBest": "Avg: 00",
+ 		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c156051/andrew-tye.jpg",
+ 		"playerName": "Andrew Tye",
+ 		"playerRatting": "BOWLER"
+ 	},
+ 	{
+ 		"playerBest": "Avg: 00",
+ 		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c151576/james-pattinson.jpg",
+ 		"playerName": "James Pattinson",
+ 		"playerRatting": "BOWLER"
+ 	}
+ ]
