@@ -1,0 +1,67 @@
+ [{
+ 		"playerBest": "Avg: 26.88",
+ 		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170785/evin-lewis.jpg",
+ 		"playerName": "Evin Lewis",
+ 		"playerRatting": "BATSMEN"
+ 	},
+ 	{
+ 		"playerBest": "Avg: 20.89",
+ 		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c146338/andre-fletcher.jpg",
+ 		"playerName": "Andre Fletcher",
+ 		"playerRatting": "WK-Batsman"
+ 	},
+ 	{
+ 		"playerBest": "Avg: 29.44",
+ 		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170801/chris-gayle.jpg",
+ 		"playerName": "Chris Gayle",
+ 		"playerRatting": "BATSMEN"
+ 	},
+ 	{
+ 		"playerBest": "Avg: 20.08",
+ 		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171232/shimron-hetmyer.jpg",
+ 		"playerName": "Shimron Hetmyer",
+ 		"playerRatting": "BATSMEN"
+ 	},
+ 	{
+ 		"playerBest": "Avg: 20.46",
+ 		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170810/nicholas-pooran.jpg",
+ 		"playerName": "Nicholas Pooran",
+ 		"playerRatting": "WK-Batsman"
+ 	},
+ 	{
+ 		"playerBest": "Avg: 24.82",
+ 		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171071/kieron-pollard.jpg",
+ 		"playerName": "Kieron Pollard",
+ 		"playerRatting": "ALL ROUNDER"
+ 	},
+ 	{
+ 		"playerBest": "Avg: 16.75",
+ 		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170806/jason-holder.jpg",
+ 		"playerName": "Jason Holder",
+ 		"playerRatting": "ALL ROUNDER"
+ 	},
+ 	{
+ 		"playerBest": "Avg: 23.19",
+ 		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171033/dwayne-bravo.jpg",
+ 		"playerName": "Dwayne Bravo",
+ 		"playerRatting": "ALL ROUNDER"
+ 	},
+ 	{
+ 		"playerBest": "Avg: 00",
+ 		"playerImage": "https://.cricbuzz.com/a/img/v1/152x152/i1/c170814/shai-hope.jpg",
+ 		"playerName": "Romario Shepherd",
+ 		"playerRatting": "Bowler"
+ 	},
+ 	{
+ 		"playerBest": "Avg: 13.67",
+ 		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c181653/hayden-walsh.jpg",
+ 		"playerName": "Bowler",
+ 		"playerRatting": "WICKET KEEPER"
+ 	},
+ 	{
+ 		"playerBest": "Avg: 00",
+ 		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c157223/akeal-hosein.jpg",
+ 		"playerName": "Akeal Hosein",
+ 		"playerRatting": "BOWLER"
+ 	}
+ ]
