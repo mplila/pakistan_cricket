@@ -1,0 +1,91 @@
+[{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170745/henry-nicholls.jpg",
+		"playerName": "Henry Nicholls",
+		"playerRatting": "Batsman",
+		"playerBest": "Avg: 36.13"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170735/colin-de-grandhomme.jpg",
+		"playerName": "Colin de Grandhomme",
+		"playerRatting": "Batting Allrounder",
+		"playerBest": "Avg: 27.77"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c167343/scott-kuggeleijn.jpg",
+		"playerName": "Scott Kuggeleijn",
+		"playerRatting": "Batting Allrounder",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c154492/rachin-ravindra.jpg",
+		"playerName": "Rachin Ravindra",
+		"playerRatting": "Batting Allrounder",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c154598/will-young.jpg",
+		"playerName": "Will Young",
+		"playerRatting": "Batting Allrounder",
+		"playerBest": "Avg: 12.0"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c154499/jacob-duffy.jpg",
+		"playerName": "Jacob Duffy",
+		"playerRatting": "Bowling Allrounder",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c151514/cole-mcconchie.jpg",
+		"playerName": "Cole McConchie",
+		"playerRatting": "Bowling Allrounder",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170743/tom-latham.jpg",
+		"playerName": "Tom Latham (Captain)",
+		"playerRatting": "WK-Batsman",
+		"playerBest": "Avg: 34.02"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c154585/finn-allen.jpg",
+		"playerName": "Finn Allen",
+		"playerRatting": "WK-Batsman",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170757/tom-blundell.jpg",
+		"playerName": "Tom Blundell",
+		"playerRatting": "WK-Batsman",
+		"playerBest": "Avg: 15.5"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c154559/hamish-bennett.jpg",
+		"playerName": "Hamish Bennett",
+		"playerRatting": "Bowler",
+		"playerBest": "Avg: 5.0"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c154915/doug-bracewell.jpg",
+		"playerName": "Doug Bracewell",
+		"playerRatting": "Bowler",
+		"playerBest": "Avg: 15.8"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170751/matt-henry.jpg",
+		"playerName": "Matt Henry",
+		"playerRatting": "Bowler",
+		"playerBest": "Avg: 15.07"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c165714/ajaz-patel.jpg",
+		"playerName": "Ajaz Patel",
+		"playerRatting": "Bowler",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/blair-tickner.jpg",
+		"playerName": "Blair Tickner",
+		"playerRatting": "Bowler",
+		"playerBest": "Avg: 00"
+	}
+]
