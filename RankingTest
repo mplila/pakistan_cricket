@@ -1,0 +1,64 @@
+[{
+		"testMatch": "27",
+		"testPoint": "3,198",
+		"testPosition": "1",
+		"testRatting": "118",
+		"testTeam": "New Zealand"
+	},
+	{
+		"testMatch": "32",
+		"testPoint": "3,765",
+		"testPosition": "2",
+		"testRatting": "118",
+		"testTeam": "India"
+	},
+	{
+		"testMatch": "31",
+		"testPoint": "3,498",
+		"testPosition": "3",
+		"testRatting": "113",
+		"testTeam": "Australia"
+	},
+	{
+		"testMatch": "41",
+		"testPoint": "4,326",
+		"testPosition": "4",
+		"testRatting": "106",
+		"testTeam": "England"
+	},
+	{
+		"testMatch": "26",
+		"testPoint": "2,499",
+		"testPosition": "5",
+		"testRatting": "96",
+		"testTeam": "South Africa"
+	},
+	{
+		"testMatch": "30",
+		"testPoint": "2,574",
+		"testPosition": "6",
+		"testRatting": "86",
+		"testTeam": "Sri Lanka"
+	},
+	{
+		"testMatch": "23",
+		"testPoint": "1,890",
+		"testPosition": "7",
+		"testRatting": "82",
+		"testTeam": "Pakistan"
+	},
+	{
+		"testMatch": "25",
+		"testPoint": "1,937",
+		"testPosition": "8",
+		"testRatting": "77",
+		"testTeam": "West Indies"
+	},
+	{
+		"testMatch": "17",
+		"testPoint": "939",
+		"testPosition": "9",
+		"testRatting": "55",
+		"testTeam": "Bangladesh"
+	}
+]
