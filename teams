@@ -13,13 +13,6 @@
 		"teamSquad": "Players : 26"
 	},
 	{
-		"teamClick": "https://raw.githubusercontent.com/contactbackup/pakistan_cricket/main/Bangladesh",
-		"teamImage": "https://1.bp.blogspot.com/-YauU0ACregc/X_2_2sykj8I/AAAAAAAAABw/GHM1sGA9ktAWfDMaFXI7_Pvp3BU97wvAwCNcBGAsYHQ/s0/flag-round-250%2B%25281%2529.png",
-		"teamName": "Bangladesh",
-		"teamRatting": "Ratting: 89",
-		"teamSquad": "Players : 15"
-	},
-	{
 		"teamClick": "https://raw.githubusercontent.com/contactbackup/pakistan_cricket/main/England",
 		"teamImage": "https://1.bp.blogspot.com/-oX5xfU0ywAM/X_2_0N3xiAI/AAAAAAAAABM/WvUwHpFG5P0zZPQ05QPPP64iCmSPIVtVwCNcBGAsYHQ/s320/138-1380203_in-spanish-union-jack-flag-round-png.png",
 		"teamName": "England",
@@ -55,24 +48,10 @@
 		"teamSquad": "Players : 14"
 	},
 	{
-		"teamClick": "https://raw.githubusercontent.com/contactbackup/pakistan_cricket/main/Sri_Lanka",
-		"teamImage": "https://1.bp.blogspot.com/-MkuJ45GXgUI/X_2_0Q5iQcI/AAAAAAAAABQ/pJxLGpW33SIcbewvBIL0UWmdTl50DBXKwCNcBGAsYHQ/s0/2063221021.png",
-		"teamName": "Sri Lanka",
-		"teamRatting": "Ratting: 80",
-		"teamSquad": "Players : 15"
-	},
-	{
 		"teamClick": "https://raw.githubusercontent.com/contactbackup/pakistan_cricket/main/West_Indies",
 		"teamImage": "https://1.bp.blogspot.com/-lmce6lIiglI/X_2_3rB-65I/AAAAAAAAAB4/x5k6jUg3GQ0EoE7mVsWtnkGpud4OdCz_ACNcBGAsYHQ/s0/west-indies.png",
 		"teamName": "West Indies",
 		"teamRatting": "Ratting: 78",
 		"teamSquad": "Players : 15"
-	},
-	{
-		"teamClick": "https://raw.githubusercontent.com/contactbackup/pakistan_cricket/main/Zimbabwe",
-		"teamImage": "https://www.prntr.com/images/zimbabwe-flag-1.jpg",
-		"teamName": "Zimbabwe",
-		"teamRatting": "Ratting: 188",
-		"teamSquad": "Players: 15"
 	}
 ]
