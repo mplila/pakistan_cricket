@@ -1,0 +1,91 @@
+[{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/aqib-ilyas.jpg",
+		"playerName": "Aqib Ilyas",
+		"playerRatting": "Batsman",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c154947/jatinder-singh.jpg",
+		"playerName": "Jatinder Singh",
+		"playerRatting": "Batsman",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/fayyaz-butt.jpg",
+		"playerName": "Fayyaz Butt",
+		"playerRatting": "Batsman",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/khurram-nawaz.jpg",
+		"playerName": "Khurram Nawaz",
+		"playerRatting": "Batsman",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/sandeep-goud.jpg",
+		"playerName": "Sandeep Goud",
+		"playerRatting": "Batting Allrounder",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/nestor-dhamba.jpg",
+		"playerName": "Nestor Dhamba",
+		"playerRatting": "Batting Allrounder",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c154948/khawar-ali.jpg",
+		"playerName": "Khawar Ali",
+		"playerRatting": "Batting Allrounder",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/suraj-kumar.jpg",
+		"playerName": "Suraj Kumar",
+		"playerRatting": "WK-Batsman",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/naseem-khushi.jpg",
+		"playerName": "Naseem Khushi",
+		"playerRatting": "WK-Batsman",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/zeeshan-maqsood.jpg",
+		"playerName": "Zeeshan Maqsood (Captain)",
+		"playerRatting": "Bowler",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/mohammad-nadeem.jpg",
+		"playerName": "Mohammad Nadeem",
+		"playerRatting": "Bowler",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/kaleemullah.jpg",
+		"playerName": "Kaleemullah",
+		"playerRatting": "Bowler",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c154943/bilal-khan.jpg",
+		"playerName": "Bilal Khan",
+		"playerRatting": "Bowler",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c154939/sufyan-mehmood.jpg",
+		"playerName": "Sufyan Mehmood",
+		"playerRatting": "Bowler",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/ayan-khan.jpg",
+		"playerName": "Ayan Khan",
+		"playerRatting": "Bowler",
+		"playerBest": "Avg: 00"
+	}
+]
