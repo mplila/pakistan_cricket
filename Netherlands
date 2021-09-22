@@ -1,0 +1,91 @@
+[{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c155927/bas-de-leede.jpg",
+		"playerName": "Bas de Leede",
+		"playerRatting": "Batsman",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c155980/stephan-myburgh.jpg",
+		"playerName": "Stephan Myburgh",
+		"playerRatting": "Batsman",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c157321/colin-ackermann.jpg",
+		"playerName": "Colin Ackermann",
+		"playerRatting": "Batting Allrounder",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c155946/max-odowd.jpg",
+		"playerName": "Max ODowd",
+		"playerRatting": "Batting Allrounder",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c155932/ryan-ten-doeschate.jpg",
+		"playerName": "Ryan ten Doeschate",
+		"playerRatting": "Batting Allrounder",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/fred-klaassen.jpg",
+		"playerName": "Fred Klaassen",
+		"playerRatting": "Batting Allrounder",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c155439/pieter-seelaar.jpg",
+		"playerName": "Pieter Seelaar (Captain)",
+		"playerRatting": "Bowling Allrounder",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c156059/ben-cooper.jpg",
+		"playerName": "Ben Cooper",
+		"playerRatting": "Bowling Allrounder",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c155953/timm-van-der-gugten.jpg",
+		"playerName": "Timm van der Gugten",
+		"playerRatting": "Bowling Allrounder",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c155976/roelof-van-der-merwe.jpg",
+		"playerName": "Roelof van der Merwe",
+		"playerRatting": "Bowling Allrounder",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c155922/logan-van-beek.jpg",
+		"playerName": "Logan van Beek",
+		"playerRatting": "Bowling Allrounder",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/scott-edwards.jpg",
+		"playerName": "Scott Edwards",
+		"playerRatting": "WK-Batsman",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/philippe-boissevain.jpg",
+		"playerName": "Philippe Boissevain",
+		"playerRatting": "Bowler",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c155945/paul-van-meekeren.jpg",
+		"playerName": "Paul van Meekeren",
+		"playerRatting": "Bowler",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/brandon-glover.jpg",
+		"playerName": "Brandon Glover",
+		"playerRatting": "Bowler",
+		"playerBest": "Avg: 00"
+	}
+]
