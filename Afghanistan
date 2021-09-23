@@ -1,109 +1,109 @@
 [{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170833/hazratullah-zazai.jpg",
 		"playerName": "Hazratullah Zazai",
-		"playerType": "Batsman",
+		"playerRatting": "Batsman",
 		"playerBest": "Avg: 00"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c176654/usman-ghani.jpg",
 		"playerName": "Usman Ghani",
-		"playerType": "Batsman",
+		"playerRatting": "Batsman",
 		"playerBest": "Avg: 00"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170835/asghar-afghan.jpg",
 		"playerName": "Asghar Afghan",
-		"playerType": "Batsman",
+		"playerRatting": "Batsman",
 		"playerBest": "Avg: 00"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170839/najibullah-zadran.jpg",
 		"playerName": "Najibullah Zadran",
-		"playerType": "Batsman",
+		"playerRatting": "Batsman",
 		"playerBest": "Avg: 00"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170837/hashmatullah-shahidi.jpg",
 		"playerName": "Hashmatullah Shahidi",
-		"playerType": "Batsman",
+		"playerRatting": "Batsman",
 		"playerBest": "Avg: 00"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170853/mohammad-nabi.jpg",
 		"playerName": "Mohammad Nabi (C)",
-		"playerType": "Bowling Allrounder",
+		"playerRatting": "Bowling Allrounder",
 		"playerBest": "Avg: 00"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170851/gulbadin-naib.jpg",
 		"playerName": "Gulbadin Naib",
-		"playerType": "Bowling Allrounder",
+		"playerRatting": "Bowling Allrounder",
 		"playerBest": "Avg: 00"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/sharafuddin-ashraf.jpg",
 		"playerName": "Sharafuddin Ashraf",
-		"playerType": "Bowling Allrounder",
+		"playerRatting": "Bowling Allrounder",
 		"playerBest": "Avg: 00"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/rahmanullah-gurbaz.jpg",
 		"playerName": "Rahmanullah Gurbaz",
-		"playerType": "WK-Batsman",
+		"playerRatting": "WK-Batsman",
 		"playerBest": "Avg: 00"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170855/mohammad-shahzad.jpg",
 		"playerName": "Mohammad Shahzad",
-		"playerType": "WK-Batsman",
+		"playerRatting": "WK-Batsman",
 		"playerBest": "Avg: 00"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170857/rashid-khan.jpg",
 		"playerName": "Rashid Khan",
-		"playerType": "Bowler",
+		"playerRatting": "Bowler",
 		"playerBest": "Avg: 00"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170865/mujeeb-ur-rahman.jpg",
 		"playerName": "Mujeeb Ur Rahman",
-		"playerType": "Bowler",
+		"playerRatting": "Bowler",
 		"playerBest": "Avg: 00"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/karim-janat.jpg",
 		"playerName": "Karim Janat",
-		"playerType": "Bowler",
+		"playerRatting": "Bowler",
 		"playerBest": "Avg: 00"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/naveen-ul-haq.jpg",
 		"playerName": "Naveen-ul-Haq",
-		"playerType": "Bowler",
+		"playerRatting": "Bowler",
 		"playerBest": "Avg: 00"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170863/hamid-hassan.jpg",
 		"playerName": "Hamid Hassan",
-		"playerType": "Bowler",
+		"playerRatting": "Bowler",
 		"playerBest": "Avg: 00"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c178321/qais-ahmad.jpg",
 		"playerName": "Qais Ahmad",
-		"playerType": "Bowler",
+		"playerRatting": "Bowler",
 		"playerBest": "Avg: 00"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c176658/shapoor-zadran.jpg",
 		"playerName": "Shapoor Zadran",
-		"playerType": "Bowler",
+		"playerRatting": "Bowler",
 		"playerBest": "Avg: 00"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170859/dawlat-zadran.jpg",
 		"playerName": "Dawlat Zadran",
-		"playerType": "Bowler",
+		"playerRatting": "Bowler",
 		"playerBest": "Avg: 00"
 	}
 ]
