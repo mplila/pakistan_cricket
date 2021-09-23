@@ -1,91 +1,91 @@
 [{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170630/aaron-finch.jpg",
 		"playerName": "Aaron Finch (C)",
-		"playerType": "Batsman",
+		"playerRatting": "Batsman",
 		"playerBest": "Avg: 00"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170624/steven-smith.jpg",
 		"playerName": "Steven Smith",
-		"playerType": "Batsman",
+		"playerRatting": "Batsman",
 		"playerBest": "Avg: 00"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170635/david-warner.jpg",
 		"playerName": "David Warner",
-		"playerType": "Batsman",
+		"playerRatting": "Batsman",
 		"playerBest": "Avg: 00"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c191412/mitchell-marsh.jpg",
 		"playerName": "Mitchell Marsh",
-		"playerType": "Batting Allrounder",
+		"playerRatting": "Batting Allrounder",
 		"playerBest": "Avg: 00"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170641/glenn-maxwell.jpg",
 		"playerName": "Glenn Maxwell",
-		"playerType": "Batting Allrounder",
+		"playerRatting": "Batting Allrounder",
 		"playerBest": "Avg: 00"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c176605/marcus-stoinis.jpg",
 		"playerName": "Marcus Stoinis",
-		"playerType": "Batting Allrounder",
+		"playerRatting": "Batting Allrounder",
 		"playerBest": "Avg: 00"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c155995/ashton-agar.jpg",
 		"playerName": "Ashton Agar",
-		"playerType": "Bowling Allrounder",
+		"playerRatting": "Bowling Allrounder",
 		"playerBest": "Avg: 00"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c151596/josh-inglis.jpg",
 		"playerName": "Josh Inglis",
-		"playerType": "WK-Batsman",
+		"playerRatting": "WK-Batsman",
 		"playerBest": "Avg: 00"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c156205/matthew-wade.jpg",
 		"playerName": "Matthew Wade",
-		"playerType": "WK-Batsman",
+		"playerRatting": "WK-Batsman",
 		"playerBest": "Avg: 00"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170651/pat-cummins.jpg",
 		"playerName": "Pat Cummins",
-		"playerType": "Bowler",
+		"playerRatting": "Bowler",
 		"playerBest": "Avg: 00"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c151583/josh-hazlewood.jpg",
 		"playerName": "Josh Hazlewood",
-		"playerType": "Bowler",
+		"playerRatting": "Bowler",
 		"playerBest": "Avg: 00"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170638/kane-richardson.jpg",
 		"playerName": "Kane Richardson",
-		"playerType": "Bowler",
+		"playerRatting": "Bowler",
 		"playerBest": "Avg: 00"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170643/mitchell-starc.jpg",
 		"playerName": "Mitchell Starc",
-		"playerType": "Bowler",
+		"playerRatting": "Bowler",
 		"playerBest": "Avg: 00"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170654/adam-zampa.jpg",
 		"playerName": "Adam Zampa",
-		"playerType": "Bowler",
+		"playerRatting": "Bowler",
 		"playerBest": "Avg: 00"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c156052/mitchell-swepson.jpg",
 		"playerName": "Mitchell Swepson",
-		"playerType": "Bowler",
+		"playerRatting": "Bowler",
 		"playerBest": "Avg: 00"
 	}
 ]
