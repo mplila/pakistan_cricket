@@ -1,85 +1,91 @@
 [{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170704/lahiru-thirimanne.jpg",
-		"playerName": "Lahiru Thirimanne",
-		"playerRatting": "BATSMEN"
-	},
-	{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170700/dimuth-karunaratne.jpg",
-		"playerName": "Dimuth Karunaratne",
-		"playerRatting": "BATSMEN"
-	},
-	{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170702/avishka-fernando.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170702/avishka-fernando.jpg",
 		"playerName": "Avishka Fernando",
-		"playerRatting": "BATSMEN"
+		"playerRatting": "Batsman",
+		"playerBest": "Avg: 00"
 	},
 	{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170815/kusal-mendis.jpg ",
-		"playerName": "Kusal Mendis",
-		"playerRatting": "BATSMEN"
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/bhanuka-rajapaksa.jpg",
+		"playerName": "Bhanuka Rajapaksa",
+		"playerRatting": "Batsman",
+		"playerBest": "Avg: 00"
 	},
 	{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170706/angelo-mathews.jpg",
-		"playerName": "Angelo Mathews",
-		"playerRatting": "ALL ROUNDER"
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c151519/dasun-shanaka.jpg",
+		"playerName": "Dasun Shanaka (Captain)",
+		"playerRatting": "Batting Allrounder",
+		"playerBest": "Avg: 00"
 	},
 	{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170708/dhananjaya-de-silva.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170708/dhananjaya-de-silva.jpg",
 		"playerName": "Dhananjaya de Silva",
-		"playerRatting": "ALL ROUNDER"
+		"playerRatting": "Batting Allrounder",
+		"playerBest": "Avg: 00"
 	},
 	{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170712/milinda-siriwardana.jpg",
-		"playerName": "Milinda Siriwardana",
-		"playerRatting": "ALL ROUNDER"
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c155713/kamindu-mendis.jpg",
+		"playerName": "Kamindu Mendis",
+		"playerRatting": "Batting Allrounder",
+		"playerBest": "Avg: 00"
 	},
 	{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170714/thisara-perera.jpg",
-		"playerName": "Thisara Perera",
-		"playerRatting": "ALL ROUNDER"
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c155686/lahiru-madushanka.jpg",
+		"playerName": "Lahiru Madushanka",
+		"playerRatting": "Batting Allrounder",
+		"playerBest": "Avg: 00"
 	},
 	{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170710/isuru-udana.jpg",
-		"playerName": "Isuru Udana",
-		"playerRatting": "ALL ROUNDER"
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/charith-asalanka.jpg",
+		"playerName": "Charith Asalanka",
+		"playerRatting": "Bowling Allrounder",
+		"playerBest": "Avg: 00"
 	},
 	{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170716/jeevan-mendis.jpg",
-		"playerName": "Jeevan Mendis",
-		"playerRatting": "ALL ROUNDER"
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c155576/wanindu-hasaranga.jpg",
+		"playerName": "Wanindu Hasaranga",
+		"playerRatting": "Bowling Allrounder",
+		"playerBest": "Avg: 00"
 	},
 	{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170718/kusal-perera.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170718/kusal-perera.jpg",
 		"playerName": "Kusal Perera",
-		"playerRatting": "WICKET KEEPER"
+		"playerRatting": "WK-Batsman",
+		"playerBest": "Avg: 00"
 	},
 	{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170726/suranga-lakmal.jpg",
-		"playerName": "Suranga Lakmal",
-		"playerRatting": "BOWLER"
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c146417/dinesh-chandimal.jpg",
+		"playerName": "Dinesh Chandimal",
+		"playerRatting": "WK-Batsman",
+		"playerBest": "Avg: 00"
 	},
 	{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170722/jeffrey-vandersay.jpg",
-		"playerName": "Jeffrey Vandersay",
-		"playerRatting": "BOWLER"
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/chamika-karunaratne.jpg",
+		"playerName": "Chamika Karunaratne",
+		"playerRatting": "Bowler",
+		"playerBest": "Avg: 00"
 	},
 	{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170728/nuwan-pradeep.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170728/nuwan-pradeep.jpg",
 		"playerName": "Nuwan Pradeep",
-		"playerRatting": "BOWLER"
+		"playerRatting": "Bowler",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/maheesh-theekshana.jpg",
+		"playerName": "Maheesh Theekshana",
+		"playerRatting": "Bowler",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c155666/praveen-jayawickrama.jpg",
+		"playerName": "Praveen Jayawickrama",
+		"playerRatting": "Bowler",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c155068/dushmantha-chameera.jpg",
+		"playerName": "Dushmantha Chameera",
+		"playerRatting": "Bowler",
+		"playerBest": "Avg: 00"
 	}
 ]
