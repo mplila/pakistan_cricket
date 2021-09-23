@@ -1,91 +1,109 @@
 [{
-		"playerBest": "Avg: 24.67",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170835/asghar-afghan.jpg",
-		"playerName": "Asghar Afghan",
-		"playerRatting": "BATSMEN"
-	},
-	{
-		"playerBest": "Avg: 33.0",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170837/hashmatullah-shahidi.jpg",
-		"playerName": "Hashmatullah Shahidi",
-		"playerRatting": "BATSMEN"
-	},
-	{
-		"playerBest": "Avg: 22.56",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170833/hazratullah-zazai.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170833/hazratullah-zazai.jpg",
 		"playerName": "Hazratullah Zazai",
-		"playerRatting": "BATSMEN"
+		"playerType": "Batsman",
+		"playerBest": "Avg: 00"
 	},
 	{
-		"playerBest": "Avg: 29.36",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170839/najibullah-zadran.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c176654/usman-ghani.jpg",
+		"playerName": "Usman Ghani",
+		"playerType": "Batsman",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170835/asghar-afghan.jpg",
+		"playerName": "Asghar Afghan",
+		"playerType": "Batsman",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170839/najibullah-zadran.jpg",
 		"playerName": "Najibullah Zadran",
-		"playerRatting": "BATSMEN"
+		"playerType": "Batsman",
+		"playerBest": "Avg: 00"
 	},
 	{
-		"playerBest": "Avg: 24.32",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170831/noor-ali-zadran.jpg",
-		"playerName": "Noor Ali Zadran",
-		"playerRatting": "BATSMEN"
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170837/hashmatullah-shahidi.jpg",
+		"playerName": "Hashmatullah Shahidi",
+		"playerType": "Batsman",
+		"playerBest": "Avg: 00"
 	},
 	{
-		"playerBest": "Avg: 35.75",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170846/rahmat-shah.jpg",
-		"playerName": "Rahmat Shah",
-		"playerRatting": "ALL ROUNDER"
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170853/mohammad-nabi.jpg",
+		"playerName": "Mohammad Nabi (C)",
+		"playerType": "Bowling Allrounder",
+		"playerBest": "Avg: 00"
 	},
 	{
-		"playerBest": "Avg: 29.84",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170849/samiullah-shinwari.jpg",
-		"playerName": "Samiullah Shinwari",
-		"playerRatting": "ALL ROUNDER"
-	},
-	{
-		"playerBest": "Avg: 21.58",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170851/gulbadin-naib.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170851/gulbadin-naib.jpg",
 		"playerName": "Gulbadin Naib",
-		"playerRatting": "ALL ROUNDER"
+		"playerType": "Bowling Allrounder",
+		"playerBest": "Avg: 00"
 	},
 	{
-		"playerBest": "Avg: 27.22",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170853/mohammad-nabi.jpg",
-		"playerName": "Mohammad Nabi",
-		"playerRatting": "ALL ROUNDER"
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/sharafuddin-ashraf.jpg",
+		"playerName": "Sharafuddin Ashraf",
+		"playerType": "Bowling Allrounder",
+		"playerBest": "Avg: 00"
 	},
 	{
-		"playerBest": "Avg: 33.7",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170855/mohammad-shahzad.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/rahmanullah-gurbaz.jpg",
+		"playerName": "Rahmanullah Gurbaz",
+		"playerType": "WK-Batsman",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170855/mohammad-shahzad.jpg",
 		"playerName": "Mohammad Shahzad",
-		"playerRatting": "WICKET KEEPER"
+		"playerType": "WK-Batsman",
+		"playerBest": "Avg: 00"
 	},
 	{
-		"playerBest": "Avg: 11.43",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170861/aftab-alam.jpg",
-		"playerName": "Aftab Alam",
-		"playerRatting": "BOWLER"
-	},
-	{
-		"playerBest": "Avg: 17.1",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170859/dawlat-zadran.jpg",
-		"playerName": "Dawlat Zadran",
-		"playerRatting": "BOWLER"
-	},
-	{
-		"playerBest": "Avg: 6.69",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170863/hamid-hassan.jpg",
-		"playerName": "Hamid Hassan",
-		"playerRatting": "BOWLER"
-	},
-	{
-		"playerBest": "Avg: 20.57",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170857/rashid-khan.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170857/rashid-khan.jpg",
 		"playerName": "Rashid Khan",
-		"playerRatting": "BOWLER"
+		"playerType": "Bowler",
+		"playerBest": "Avg: 00"
 	},
 	{
-		"playerBest": "Avg: 8.0",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170865/mujeeb-ur-rahman.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170865/mujeeb-ur-rahman.jpg",
 		"playerName": "Mujeeb Ur Rahman",
-		"playerRatting": "BOWLER"
+		"playerType": "Bowler",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/karim-janat.jpg",
+		"playerName": "Karim Janat",
+		"playerType": "Bowler",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/naveen-ul-haq.jpg",
+		"playerName": "Naveen-ul-Haq",
+		"playerType": "Bowler",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170863/hamid-hassan.jpg",
+		"playerName": "Hamid Hassan",
+		"playerType": "Bowler",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c178321/qais-ahmad.jpg",
+		"playerName": "Qais Ahmad",
+		"playerType": "Bowler",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c176658/shapoor-zadran.jpg",
+		"playerName": "Shapoor Zadran",
+		"playerType": "Bowler",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170859/dawlat-zadran.jpg",
+		"playerName": "Dawlat Zadran",
+		"playerType": "Bowler",
+		"playerBest": "Avg: 00"
 	}
 ]
