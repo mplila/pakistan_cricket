@@ -1,85 +1,91 @@
 [{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170639/faf-du-plessis.jpg",
-		"playerName": "Faf du Plessis",
-		"playerRatting": "BATSMEN"
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c157823/temba-bavuma.jpg",
+		"playerName": "Temba Bavuma (Captain)",
+		"playerRatting": "Batsman",
+		"playerBest": "Avg: 00"
 	},
 	{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170687/david-miller.jpg",
-		"playerName": "David Miller",
-		"playerRatting": "BATSMEN"
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c160000/reeza-hendricks.jpg",
+		"playerName": "Reeza Hendricks",
+		"playerRatting": "Batsman",
+		"playerBest": "Avg: 00"
 	},
 	{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170645/aiden-markram.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170645/aiden-markram.jpg",
 		"playerName": "Aiden Markram",
-		"playerRatting": "BATSMEN"
+		"playerRatting": "Batsman",
+		"playerBest": "Avg: 00"
 	},
 	{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170691/rassie-van-der-dussen.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170687/david-miller.jpg",
+		"playerName": "David Miller",
+		"playerRatting": "Batsman",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170691/rassie-van-der-dussen.jpg",
 		"playerName": "Rassie van der Dussen",
-		"playerRatting": "BATSMEN"
+		"playerRatting": "Batsman",
+		"playerBest": "Avg: 00"
 	},
 	{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170693/jean-paul-duminy.jpg",
-		"playerName": "Jean-Paul Duminy",
-		"playerRatting": "ALL ROUNDER"
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c156946/wiaan-mulder.jpg",
+		"playerName": "Wiaan Mulder",
+		"playerRatting": "Bowling Allrounder",
+		"playerBest": "Avg: 00"
 	},
 	{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170694/andile-phehlukwayo.jpg",
-		"playerName": "Andile Phehlukwayo",
-		"playerRatting": "ALL ROUNDER"
-	},
-	{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170695/dwaine-pretorius.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170695/dwaine-pretorius.jpg",
 		"playerName": "Dwaine Pretorius",
-		"playerRatting": "ALL ROUNDER"
+		"playerRatting": "Bowling Allrounder",
+		"playerBest": "Avg: 00"
 	},
 	{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170696/chris-morris.jpg",
-		"playerName": "Chris Morris",
-		"playerRatting": "ALL ROUNDER"
-	},
-	{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170698/quinton-de-kock.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170698/quinton-de-kock.jpg",
 		"playerName": "Quinton de Kock",
-		"playerRatting": "WICKET KEEPER"
+		"playerRatting": "WK-Batsman",
+		"playerBest": "Avg: 00"
 	},
 	{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170764/imran-tahir.jpg",
-		"playerName": "Imran Tahir",
-		"playerRatting": "BOWLER"
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c171037/heinrich-klaasen.jpg",
+		"playerName": "Heinrich Klaasen",
+		"playerRatting": "WK-Batsman",
+		"playerBest": "Avg: 00"
 	},
 	{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170759/kagiso-rabada.jpg",
-		"playerName": "Kagiso Rabada",
-		"playerRatting": "BOWLER"
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c156935/keshav-maharaj.jpg",
+		"playerName": "Keshav Maharaj",
+		"playerRatting": "Bowler",
+		"playerBest": "Avg: 00"
 	},
 	{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170761/lungi-ngidi.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/bjorn-fortuin.jpg",
+		"playerName": "Bjorn Fortuin",
+		"playerRatting": "Bowler",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170761/lungi-ngidi.jpg",
 		"playerName": "Lungi Ngidi",
-		"playerRatting": "BOWLER"
+		"playerRatting": "Bowler",
+		"playerBest": "Avg: 00"
 	},
 	{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170774/tabraiz-shamsi.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c168592/anrich-nortje.jpg",
+		"playerName": "Anrich Nortje",
+		"playerRatting": "Bowler",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170759/kagiso-rabada.jpg",
+		"playerName": "Kagiso Rabada",
+		"playerRatting": "Bowler",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170774/tabraiz-shamsi.jpg",
 		"playerName": "Tabraiz Shamsi",
-		"playerRatting": "BOWLER"
-	},
-	{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c157349/beuran-hendricks.jpg",
-		"playerName": "Beuran Hendricks",
-		"playerRatting": "BOWLER"
+		"playerRatting": "Bowler",
+		"playerBest": "Avg: 00"
 	}
 ]
