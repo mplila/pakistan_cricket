@@ -1,121 +1,91 @@
 [{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170936/eoin-morgan.jpg",
-		"playerName": "Eoin Morgan",
-		"playerRatting": "BATSMEN"
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170936/eoin-morgan.jpg",
+		"playerName": "Eoin Morgan (Captain)",
+		"playerRatting": "Batsman",
+		"playerBest": "Avg: 00"
 	},
 	{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170942/joe-root.jpg",
-		"playerName": "Joe Root",
-		"playerRatting": "BATSMEN"
-	},
-	{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170941/jason-roy.jpg",
-		"playerName": "Jason Roy",
-		"playerRatting": "BATSMEN"
-	},
-	{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171085/liam-livingstone.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c171085/liam-livingstone.jpg",
 		"playerName": "Liam Livingstone",
-		"playerRatting": "BATSMEN"
+		"playerRatting": "Batsman",
+		"playerBest": "Avg: 00"
 	},
 	{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c180927/dawid-malan.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c180927/dawid-malan.jpg",
 		"playerName": "Dawid Malan",
-		"playerRatting": "BATSMEN"
+		"playerRatting": "Batsman",
+		"playerBest": "Avg: 00"
 	},
 	{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170953/moeen-ali.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170941/jason-roy.jpg",
+		"playerName": "Jason Roy",
+		"playerRatting": "Batsman",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170953/moeen-ali.jpg",
 		"playerName": "Moeen Ali",
-		"playerRatting": "ALL ROUNDER"
+		"playerRatting": "Batting Allrounder",
+		"playerBest": "Avg: 00"
 	},
 	{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170950/ben-stokes.jpg",
-		"playerName": "Ben Stokes",
-		"playerRatting": "ALL ROUNDER"
-	},
-	{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170964/chris-woakes.jpg",
-		"playerName": "Chris Woakes",
-		"playerRatting": "ALL ROUNDER"
-	},
-	{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170967/tom-curran.jpg",
-		"playerName": "Tom Curran",
-		"playerRatting": "ALL ROUNDER"
-	},
-	{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c180929/lewis-gregory.jpg",
-		"playerName": "Lewis Gregory",
-		"playerRatting": "ALL ROUNDER"
-	},
-	{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c156183/sam-curran.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c156183/sam-curran.jpg",
 		"playerName": "Sam Curran",
-		"playerRatting": "ALL ROUNDER"
+		"playerRatting": "Bowling Allrounder",
+		"playerBest": "Avg: 00"
 	},
 	{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170976/jonny-bairstow.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c156167/david-willey.jpg",
+		"playerName": "David Willey",
+		"playerRatting": "Bowling Allrounder",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170964/chris-woakes.jpg",
+		"playerName": "Chris Woakes",
+		"playerRatting": "Bowling Allrounder",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170976/jonny-bairstow.jpg",
 		"playerName": "Jonny Bairstow",
-		"playerRatting": "WICKET KEEPER"
+		"playerRatting": "WK-Batsman",
+		"playerBest": "Avg: 00"
 	},
 	{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170980/jos-buttler.jpg",
-		"playerName": "Jos Buttler",
-		"playerRatting": "WICKET KEEPER"
-	},
-	{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c156173/sam-billings.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c156173/sam-billings.jpg",
 		"playerName": "Sam Billings",
-		"playerRatting": "WICKET KEEPER"
+		"playerRatting": "WK-Batsman",
+		"playerBest": "Avg: 00"
 	},
 	{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170987/adil-rashid.jpg",
-		"playerName": "Adil Rashid",
-		"playerRatting": "BOWLER"
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170980/jos-buttler.jpg",
+		"playerName": "Jos Buttler",
+		"playerRatting": "WK-Batsman",
+		"playerBest": "Avg: 00"
 	},
 	{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170990/mark-wood.jpg",
-		"playerName": "Mark Wood",
-		"playerRatting": "BOWLER"
-	},
-	{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170970/jofra-archer.jpg",
-		"playerName": "Jofra Archer",
-		"playerRatting": "BOWLER"
-	},
-	{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c156823/olly-stone.jpg",
-		"playerName": "Olly Stone",
-		"playerRatting": "BOWLER"
-	},
-	{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c182026/reece-topley.jpg",
-		"playerName": "Reece Topley",
-		"playerRatting": "BOWLER"
-	},
-	{
-		"playerBest": "Avg: 00",
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c148144/chris-jordan.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c148144/chris-jordan.jpg",
 		"playerName": "Chris Jordan",
-		"playerRatting": "BOWLER"
+		"playerRatting": "Bowler",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/tymal-mills.jpg",
+		"playerName": "Tymal Mills",
+		"playerRatting": "Bowler",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170987/adil-rashid.jpg",
+		"playerName": "Adil Rashid",
+		"playerRatting": "Bowler",
+		"playerBest": "Avg: 00"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170990/mark-wood.jpg",
+		"playerName": "Mark Wood",
+		"playerRatting": "Bowler",
+		"playerBest": "Avg: 00"
 	}
 ]
