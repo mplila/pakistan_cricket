@@ -4,7 +4,7 @@
 		"fastTeam": "Oman",
 		"secondTeam": "Papua New Guinea",
 		"fastImage": "https://cdn.britannica.com/73/5773-004-F7C13E3D/Flag-Oman.jpg",
-		"secondImage": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Flag_of_Papua_New_Guinea.svg",
+		"secondImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/1200px-Flag_of_Papua_New_Guinea.svg.png",
 		"url": "",
 		"fastScore": "",
 		"secondScore": ""
@@ -15,7 +15,7 @@
 		"fastTeam": "Bangladesh",
 		"secondTeam": "Scotland",
 		"fastImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/2560px-Flag_of_Bangladesh.svg.png",
-		"secondImage": "https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg",
+		"secondImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/1200px-Flag_of_Scotland.svg.png",
 		"url": "",
 		"fastScore": "",
 		"secondScore": ""
@@ -48,8 +48,8 @@
 		"matchType": "T20 5 of 45",
 		"fastTeam": "Scotland",
 		"secondTeam": "Papua New Guinea",
-		"fastImage": "https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg",
-		"secondImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Papua_New_Guinea_%283-2%29.svg/2560px-Flag_of_Papua_New_Guinea_%283-2%29.svg.png",
+		"fastImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/1200px-Flag_of_Scotland.svg.png",
+		"secondImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/1200px-Flag_of_Papua_New_Guinea.svg.png",
 		"url": "",
 		"fastScore": "",
 		"secondScore": ""
@@ -93,7 +93,7 @@
 		"fastTeam": "Bangladesh",
 		"secondTeam": "Papua New Guinea",
 		"fastImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/2560px-Flag_of_Bangladesh.svg.png",
-		"secondImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Papua_New_Guinea_%283-2%29.svg/2560px-Flag_of_Papua_New_Guinea_%283-2%29.svg.png",
+		"secondImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/1200px-Flag_of_Papua_New_Guinea.svg.png",
 		"url": "",
 		"fastScore": "",
 		"secondScore": ""
@@ -104,7 +104,7 @@
 		"fastTeam": "Oman",
 		"secondTeam": "Scotland",
 		"fastImage": "https://cdn.britannica.com/73/5773-004-F7C13E3D/Flag-Oman.jpg",
-		"secondImage": "https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg",
+		"secondImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/1200px-Flag_of_Scotland.svg.png",
 		"url": "",
 		"fastScore": "",
 		"secondScore": ""
