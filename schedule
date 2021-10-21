@@ -1,92 +1,4 @@
-[{
-		"time": "Oct 17, 4:00 PM",
-		"matchType": "T20 1 of 45",
-		"fastTeam": "Oman",
-		"secondTeam": "Papua New Guinea",
-		"fastImage": "https://cdn.britannica.com/73/5773-004-F7C13E3D/Flag-Oman.jpg",
-		"secondImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/1200px-Flag_of_Papua_New_Guinea.svg.png",
-		"url": "",
-		"fastScore": "",
-		"secondScore": ""
-	},
-	{
-		"time": "Oct 17, 8:00 PM",
-		"matchType": "T20 2 of 45",
-		"fastTeam": "Bangladesh",
-		"secondTeam": "Scotland",
-		"fastImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/2560px-Flag_of_Bangladesh.svg.png",
-		"secondImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/1200px-Flag_of_Scotland.svg.png",
-		"url": "",
-		"fastScore": "",
-		"secondScore": ""
-
-	},
-	{
-		"time": "Oct 18, 4:00 PM",
-		"matchType": "T20 3 of 45",
-		"fastTeam": "Ireland",
-		"secondTeam": "Netherlands",
-		"fastImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/255px-Flag_of_Ireland.svg.png",
-		"secondImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/255px-Flag_of_the_Netherlands.svg.png",
-		"url": "",
-		"fastScore": "",
-		"secondScore": ""
-	},
-	{
-		"time": "Oct 18, 8:00 PM",
-		"matchType": "T20 4 of 45",
-		"fastTeam": "Sri Lanka",
-		"secondTeam": "Namibia",
-		"fastImage": "http://cdn.shopify.com/s/files/1/0707/3783/products/sri-lanka-flag_grande.jpg",
-		"secondImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/1200px-Flag_of_Namibia.svg.png",
-		"url": "",
-		"fastScore": "",
-		"secondScore": ""
-	},
-	{
-		"time": "Oct 19, 4:00 PM",
-		"matchType": "T20 5 of 45",
-		"fastTeam": "Scotland",
-		"secondTeam": "Papua New Guinea",
-		"fastImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/1200px-Flag_of_Scotland.svg.png",
-		"secondImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/1200px-Flag_of_Papua_New_Guinea.svg.png",
-		"url": "",
-		"fastScore": "",
-		"secondScore": ""
-	},
-	{
-		"time": "Oct 19, 8:00 PM",
-		"matchType": "T20 6 of 45",
-		"fastTeam": "Oman",
-		"secondTeam": "Bangladesh",
-		"fastImage": "https://cdn.britannica.com/73/5773-004-F7C13E3D/Flag-Oman.jpg",
-		"secondImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/2560px-Flag_of_Bangladesh.svg.png",
-		"url": "",
-		"fastScore": "",
-		"secondScore": ""
-	},
-	{
-		"time": "Oct 20, 4:00 PM",
-		"matchType": "T20 7 of 45",
-		"fastTeam": "Namibia",
-		"secondTeam": "Netherlands",
-		"fastImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/1200px-Flag_of_Namibia.svg.png",
-		"secondImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/255px-Flag_of_the_Netherlands.svg.png",
-		"url": "",
-		"fastScore": "",
-		"secondScore": ""
-	},
-	{
-		"time": "Oct 20, 8:00 PM",
-		"matchType": "T20 8 of 45",
-		"fastTeam": "Sri Lanka",
-		"secondTeam": "Ireland",
-		"fastImage": "https://cdn.britannica.com/13/4413-004-3277D2EF/Flag-Sri-Lanka.jpg",
-		"secondImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/255px-Flag_of_Ireland.svg.png",
-		"url": "",
-		"fastScore": "",
-		"secondScore": ""
-	},
+[
 	{
 		"time": "Oct 21, 4:00 PM",
 		"matchType": "T20 9 of 45",
@@ -94,7 +6,7 @@
 		"secondTeam": "Papua New Guinea",
 		"fastImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/2560px-Flag_of_Bangladesh.svg.png",
 		"secondImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/1200px-Flag_of_Papua_New_Guinea.svg.png",
-		"url": "",
+		"url": "https://www.google.com/search?q=t20+world+cup+2021+schedule&oq=&sourceid=chrome&ie=UTF-8#sie=m;/g/11p00bff17;5;/m/026y268;dt;fp;1;;",
 		"fastScore": "",
 		"secondScore": ""
 	},
@@ -105,7 +17,7 @@
 		"secondTeam": "Scotland",
 		"fastImage": "https://cdn.britannica.com/73/5773-004-F7C13E3D/Flag-Oman.jpg",
 		"secondImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/1200px-Flag_of_Scotland.svg.png",
-		"url": "",
+		"url": "https://www.google.com/search?q=t20+world+cup+2021+schedule&oq=&sourceid=chrome&ie=UTF-8#sie=m;/g/11p00bfll6;5;/m/026y268;dt;fp;1;;",
 		"fastScore": "",
 		"secondScore": ""
 	},
@@ -116,7 +28,7 @@
 		"secondTeam": "Ireland",
 		"fastImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/1200px-Flag_of_Namibia.svg.png",
 		"secondImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/255px-Flag_of_Ireland.svg.png",
-		"url": "",
+		"url": "https://www.google.com/search?q=t20+world+cup+2021+schedule&oq=&sourceid=chrome&ie=UTF-8#sie=m;/g/11qg3dc50k;5;/m/026y268;dt;fp;1;;",
 		"fastScore": "",
 		"secondScore": ""
 	},
@@ -127,7 +39,7 @@
 		"secondTeam": "Netherlands",
 		"fastImage": "https://cdn.britannica.com/13/4413-004-3277D2EF/Flag-Sri-Lanka.jpg",
 		"secondImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/255px-Flag_of_the_Netherlands.svg.png",
-		"url": "",
+		"url": "https://www.google.com/search?q=t20+world+cup+2021+schedule&oq=&sourceid=chrome&ie=UTF-8#sie=m;/g/11p00bh8rw;5;/m/026y268;dt;fp;1;;",
 		"fastScore": "",
 		"secondScore": ""
 
@@ -139,7 +51,7 @@
 		"secondTeam": "South Africa",
 		"fastImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/1200px-Flag_of_Australia_%28converted%29.svg.png",
 		"secondImage": "https://cdn.britannica.com/27/4227-004-32423B42/Flag-South-Africa.jpg",
-		"url": "",
+		"url": "https://www.google.com/search?q=t20+world+cup+2021+schedule&oq=&sourceid=chrome&ie=UTF-8#sie=m;/g/11p00b576m;5;/m/026y268;dt;fp;1;;",
 		"fastScore": "",
 		"secondScore": ""
 	},
@@ -150,7 +62,7 @@
 		"secondTeam": "West Indies",
 		"fastImage": "https://cdn.britannica.com/44/344-004-494CC2E8/Flag-England.jpg",
 		"secondImage": "https://upload.wikimedia.org/wikipedia/en/6/65/West_indies_cricket_board_flag.png",
-		"url": "",
+		"url": "https://www.google.com/search?q=t20+world+cup+2021+schedule&oq=&sourceid=chrome&ie=UTF-8#sie=m;/g/11rwph52gl;5;/m/026y268;dt;fp;1;;",
 		"fastScore": "",
 		"secondScore": ""
 	},
