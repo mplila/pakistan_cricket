@@ -53,5 +53,19 @@
 		"teamName": "West Indies",
 		"teamRatting": "Ratting: 78",
 		"teamSquad": "Players : 15"
+	},
+	{
+		"teamClick": "https://raw.githubusercontent.com/contactbackup/pakistan_cricket/main/Bangladesh",
+		"teamImage": "https://flagdownload.com/wp-content/uploads/Flag_of_Bangladesh_Flat_Round-256x256.png",
+		"teamName": "Bangladesh",
+		"teamRatting": "Ratting: 106",
+		"teamSquad": "Players : 14"
+	},
+	{
+		"teamClick": "https://raw.githubusercontent.com/contactbackup/pakistan_cricket/main/Sri_Lanka",
+		"teamImage": "https://i.pinimg.com/originals/3d/31/6c/3d316c134f9b0837cff94b2eab7c6c0a.png",
+		"teamName": "Sri lanka",
+		"teamRatting": "Ratting: 78",
+		"teamSquad": "Players : 15"
 	}
 ]
