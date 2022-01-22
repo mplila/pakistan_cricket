@@ -1,84 +1,84 @@
 [{
 		"teamClick": "https://raw.githubusercontent.com/contactbackup/pakistan_cricket/main/Afghanistan",
-		"teamImage": "https://1.bp.blogspot.com/-bOnLcUFrDm8/X_27XiYEcoI/AAAAAAAAAAY/1b_ZmLVJjLULVzQAgVbhccwOnpcdkh0vQCNcBGAsYHQ/s0/flag-round-250.png",
+		"teamImage": "https://cdn.britannica.com/w:400,h:235,c:crop/40/5340-050-AA46700D/Flag-Afghanistan.jpg",
 		"teamName": "Afghanistan",
-		"teamRatting": "Ratting: 59",
-		"teamSquad": "Players : 15"
-	},
-	{
-		"teamClick": "https://raw.githubusercontent.com/contactbackup/pakistan_cricket/main/Australia",
-		"teamImage": "https://1.bp.blogspot.com/-OmqUFxdkvE8/X_2_2bccF4I/AAAAAAAAABs/PGsoWOwMduQQNypAYFi29-rhGAeq35VnACNcBGAsYHQ/s0/flag-button-round-250.png",
-		"teamName": "Australia",
-		"teamRatting": "Ratting: 111",
-		"teamSquad": "Players : 26"
-	},
-	{
-		"teamClick": "https://raw.githubusercontent.com/contactbackup/pakistan_cricket/main/England",
-		"teamImage": "https://1.bp.blogspot.com/-oX5xfU0ywAM/X_2_0N3xiAI/AAAAAAAAABM/WvUwHpFG5P0zZPQ05QPPP64iCmSPIVtVwCNcBGAsYHQ/s320/138-1380203_in-spanish-union-jack-flag-round-png.png",
-		"teamName": "England",
-		"teamRatting": "Ratting: 121",
-		"teamSquad": "Players : 20"
-	},
-	{
-		"teamClick": "https://raw.githubusercontent.com/contactbackup/pakistan_cricket/main/India",
-		"teamImage": "https://1.bp.blogspot.com/-cyzdxFhHQxY/X_2_1n6x60I/AAAAAAAAABg/AR8_luedaQUlUFivG36IyOPTYMoK0QVsACNcBGAsYHQ/s320/bce0a7b78c365e1f072e8ab98c08fcc3.png",
-		"teamName": "India",
-		"teamRatting": "Ratting: 119",
-		"teamSquad": "Players : 26"
-	},
-	{
-		"teamClick": "https://raw.githubusercontent.com/contactbackup/pakistan_cricket/main/new_zealand",
-		"teamImage": "https://1.bp.blogspot.com/-C90fFNFhDaQ/X_6Nubx45cI/AAAAAAAAACU/h6WsQ6WL8xsl_0GBdOEB3dKc8wVgHPhDACNcBGAsYHQ/s0/flag-round-250.png",
-		"teamName": "New Zealand",
-		"teamRatting": "Ratting: 118",
-		"teamSquad": "Players : 15"
-	},
-	{
-		"teamClick": "https://raw.githubusercontent.com/contactbackup/pakistan_cricket/main/Pakistan",
-		"teamImage": "https://1.bp.blogspot.com/-h73zmm6WUsg/X_2_1b-Q_ZI/AAAAAAAAABc/YtBHne849JAG83UYdaFbyB8dUNzFVsgCACNcBGAsYHQ/s320/Pakistan-icon.png",
-		"teamName": "Pakistan",
-		"teamRatting": "Ratting: 101",
-		"teamSquad": "Players : 15"
-	},
-	{
-		"teamClick": "https://raw.githubusercontent.com/contactbackup/pakistan_cricket/main/South_Africa",
-		"teamImage": "https://1.bp.blogspot.com/-6Y-brIlq7Bk/X_2_1xC0aTI/AAAAAAAAABo/WLVzaBXUPqUd-zbJNtlHUPO_6By7imPtQCNcBGAsYHQ/s0/flag-button-round-250%2B%25281%2529.png",
-		"teamName": "South Africa",
-		"teamRatting": "Ratting: 106",
-		"teamSquad": "Players : 14"
-	},
-	{
-		"teamClick": "https://raw.githubusercontent.com/contactbackup/pakistan_cricket/main/West_Indies",
-		"teamImage": "https://1.bp.blogspot.com/-lmce6lIiglI/X_2_3rB-65I/AAAAAAAAAB4/x5k6jUg3GQ0EoE7mVsWtnkGpud4OdCz_ACNcBGAsYHQ/s0/west-indies.png",
-		"teamName": "West Indies",
-		"teamRatting": "Ratting: 78",
+		"teamRatting": "Ratting: 232",
 		"teamSquad": "Players : 15"
 	},
 	{
 		"teamClick": "https://raw.githubusercontent.com/contactbackup/pakistan_cricket/main/Bangladesh",
-		"teamImage": "https://flagdownload.com/wp-content/uploads/Flag_of_Bangladesh_Flat_Round-256x256.png",
+		"teamImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png",
 		"teamName": "Bangladesh",
+		"teamRatting": "Ratting: 231",
+		"teamSquad": "Players : 26"
+	},
+	{
+		"teamClick": "https://raw.githubusercontent.com/contactbackup/pakistan_cricket/main/England",
+		"teamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/1200px-Flag_of_England.svg.png",
+		"teamName": "England",
+		"teamRatting": "Ratting: 275",
+		"teamSquad": "Players : 20"
+	},
+	{
+		"teamClick": "https://raw.githubusercontent.com/contactbackup/pakistan_cricket/main/India",
+		"teamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png",
+		"teamName": "India",
+		"teamRatting": "Ratting: 267",
+		"teamSquad": "Players : 26"
+	},
+	{
+		"teamClick": "https://raw.githubusercontent.com/contactbackup/pakistan_cricket/main/new_zealand",
+		"teamImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/640px-Flag_of_New_Zealand.svg.png",
+		"teamName": "New Zealand",
+		"teamRatting": "Ratting: 255",
+		"teamSquad": "Players : 15"
+	},
+	{
+		"teamClick": "https://raw.githubusercontent.com/contactbackup/pakistan_cricket/main/Pakistan",
+		"teamImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/1200px-Flag_of_Pakistan.svg.png",
+		"teamName": "Pakistan",
+		"teamRatting": "Ratting: 253",
+		"teamSquad": "Players : 15"
+	},
+	{
+		"teamClick": "https://raw.githubusercontent.com/contactbackup/pakistan_cricket/main/Australia",
+		"teamImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/1200px-Flag_of_Australia_%28converted%29.svg.png",
+		"teamName": "Australia",
+		"teamRatting": "Ratting: 248",
+		"teamSquad": "Players : 14"
+	},
+	{
+		"teamClick": "https://raw.githubusercontent.com/contactbackup/pakistan_cricket/main/South_Africa",
+		"teamImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1200px-Flag_of_South_Africa.svg.png",
+		"teamName": "South Africa",
+		"teamRatting": "Ratting: 253",
+		"teamSquad": "Players : 15"
+	},
+	{
+		"teamClick": "",
+		"teamImage": "https://flagdownload.com/wp-content/uploads/-256x256.png",
+		"teamName": "TBD",
 		"teamRatting": "Ratting: 106",
 		"teamSquad": "Players : 14"
 	},
 	{
-		"teamClick": "https://raw.githubusercontent.com/contactbackup/pakistan_cricket/main/Sri_Lanka",
+		"teamClick": "",
 		"teamImage": "https://i.pinimg.com/originals/3d/31/6c/3d316c134f9b0837cff94b2eab7c6c0a.png",
-		"teamName": "Sri lanka",
+		"teamName": "TBD",
 		"teamRatting": "Ratting: 78",
 		"teamSquad": "Players : 15"
 	},
 	{
-		"teamClick": "https://raw.githubusercontent.com/contactbackup/pakistan_cricket/main/Namibia",
-		"teamImage": "https://cdn.countryflags.com/thumbs/namibia/flag-3d-round-250.png",
-		"teamName": "Namibia",
+		"teamClick": "",
+		"teamImage": "https://cdn..com/thumbs/namibia/flag-3d-round-250.png",
+		"teamName": "TBD",
 		"teamRatting": "Ratting: 00",
 		"teamSquad": "Players : 15"
 	},
 	{
-		"teamClick": "https://raw.githubusercontent.com/contactbackup/pakistan_cricket/main/Scotland",
+		"teamClick": "",
 		"teamImage": "https://www.shareicon.net/data/2016/08/18/815750_world_512x512.png",
-		"teamName": "Scotland",
+		"teamName": "TBD",
 		"teamRatting": "Ratting: 00",
 		"teamSquad": "Players : 15"
 	}
