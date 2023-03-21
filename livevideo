@@ -1,6 +1,3 @@
 {"employees":[    
-    {"videoChannel":"Ram", "videoThumbnail":"https://github.com/mplila/images/blob/main/noti_ads.jpg", "videoName":"bb" , "videoUrl":"https://www.youtube.com/watch?v=7bMyw_whnH0&ab_channel=TV9Gujarati"},   
-     {"videoChannel":"Ram", "videoThumbnail":"https://github.com/mplila/images/blob/main/noti_ads.jpg", "videoName":"bb" , "videoUrl":"https://www.youtube.com/watch?v=Nq2wYlWFucg&ab_channel=AajTak"},   
-     {"videoChannel":"Ram", "videoThumbnail":"https://github.com/mplila/images/blob/main/noti_ads.jpg", "videoName":"bb" , "videoUrl":"https://www.youtube.com/watch?v=FeY30CgR9VI&ab_channel=News18Gujarati"},   
-     {"videoChannel":"Ram", "videoThumbnail":"https://github.com/mplila/images/blob/main/noti_ads.jpg", "videoName":"bb" , "videoUrl":"https://www.youtube.com/watch?v=kJh-Vyj5YNI&ab_channel=RajbhaGadhviOfficial"} 
-]} 
+    {"videoChannel":"Ram", "videoThumbnail":"bb", "videoName":"bb" , "videoUrl":"bb"},   
+     ]} 
